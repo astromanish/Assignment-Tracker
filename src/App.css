@@ -3,3 +3,27 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  font-family:'Noto Sans KR', sans-serif ;
+}
+
+.main-heading{
+  font-family: 'Lobster', cursive;
+  font-size: 3.5rem;
+  text-align: center;
+  margin: 0.8em 0;
+}
+
+.course-name{
+  font-size: 1.8rem;
+}
+
+.deadline{
+  font-size: 1rem;
+  color: red;
+}
+
+.add-assignment{
+  margin-bottom: 0.8em;
+}

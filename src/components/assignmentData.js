@@ -2,7 +2,7 @@ const assignment = [
     {
         id : 1,
         course : "Engg. Mech",
-        description : "Alpha",
+        description : "lorem",
         deadline : "31-07-2020"
     },
     {
